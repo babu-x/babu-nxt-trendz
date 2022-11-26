@@ -1,5 +1,2 @@
-# React Context Part | 4
-
-- Empty Cart View
-- Displaying Cart Items Count
-- Deployment
+# E commerce app
+based on react js
